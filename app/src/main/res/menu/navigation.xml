@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/List"
+        android:title="LIST" />
+
+    <item
+        android:id="@+id/MyOrder"
+        android:title="My Order" />
+    <item
+        android:id="@+id/space"
+        android:title="" />
+    <item
+        android:id="@+id/History"
+        android:title="History" />
+    <item
+        android:id="@+id/Account"
+        android:title="Account"/>
+    </menu>
